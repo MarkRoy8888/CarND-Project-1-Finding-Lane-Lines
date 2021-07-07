@@ -51,14 +51,16 @@ A browser window will appear showing the contents of the current directory.  Cli
 The Process and Performance
 
 ---
+first, the one image and then apply to video.
 
 1.Image
-
+<img src="test_images_output/whiteCarLaneSwitch.jpg" width="480" alt="Combined Image" />
+![image]
 
 2.video
 
-![image](https://github.com/MarkRoy8888/CarND-Project_1-Finding-Lane-Lines/blob/master/examples/yellow-image.gif)
 
+![image](https://github.com/MarkRoy8888/CarND-Project_1-Finding-Lane-Lines/blob/master/examples/yellow-image.gif)
 
 
 3.Challenge_video
