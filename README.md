@@ -53,7 +53,8 @@ The Process and Performance
 ---
 first, the one image and then apply to video.
 
-1.Image
+1.Image<br />
+
 <img src="test_images_output/whiteCarLaneSwitch.jpg" width="480" alt="Combined Image" />
 
 2.video
