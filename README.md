@@ -56,7 +56,9 @@ The Process and Performance
 
 
 2.video
-<img src="examples/yellow.gif" width="480" alt="Combined Image" />
+
+![image](https://github.com/MarkRoy8888/CarND-Project_1-Finding-Lane-Lines/blob/master/examples/yellow-image.gif)
+
 
 
 3.Challenge_video
