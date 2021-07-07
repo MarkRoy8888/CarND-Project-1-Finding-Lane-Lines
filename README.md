@@ -60,11 +60,10 @@ first, the one image and then apply to video.
 2.video
 
 
-![image](https://github.com/MarkRoy8888/CarND-Project_1-Finding-Lane-Lines/blob/master/examples/yellow-image.gif)
+![image](https://github.com/MarkRoy8888/CarND-Project_1-Finding-Lane-Lines/blob/master/examples/yellow-image.gif)<br />
 
 3.Challenge_video
 
-imporve the focus view
-
-the performance is great.
+imporve the focus view<br />
+the performance is great.<br />
 ![image](https://github.com/MarkRoy8888/CarND-Project_1-Finding-Lane-Lines/blob/master/examples/challenge-image.gif)
