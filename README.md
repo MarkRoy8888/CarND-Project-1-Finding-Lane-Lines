@@ -55,12 +55,12 @@ first, the one image and then apply to video.
 
 1.Image
 <img src="test_images_output/whiteCarLaneSwitch.jpg" width="480" alt="Combined Image" />
-![image]
 
 2.video
 
 
 ![image](https://github.com/MarkRoy8888/CarND-Project_1-Finding-Lane-Lines/blob/master/examples/yellow-image.gif)
 
-
 3.Challenge_video
+
+![image](https://github.com/MarkRoy8888/CarND-Project_1-Finding-Lane-Lines/blob/master/examples/challenge-image.gif)
