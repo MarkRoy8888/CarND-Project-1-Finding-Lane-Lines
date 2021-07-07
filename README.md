@@ -64,4 +64,7 @@ first, the one image and then apply to video.
 
 3.Challenge_video
 
+imporve the focus view
+
+the performance is great.
 ![image](https://github.com/MarkRoy8888/CarND-Project_1-Finding-Lane-Lines/blob/master/examples/challenge-image.gif)
